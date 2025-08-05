@@ -1,2 +1,2 @@
 # Major-project-
-Intelligent Medicine Monitoring and Smart Refill Alert Sysems
+Intelligent Medicine Monitoring and Smart Refill Alert Systems
